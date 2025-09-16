@@ -1,6 +1,6 @@
 # Portfolio
 
-We3lcome to my Github portfolio! Here you can find an overview of my school projects, my homelab and Hack The Box journey.
+Welcome to my Github portfolio! Here you can find an overview of my school projects, my homelab and Hack The Box journey.
 
 ---
 
