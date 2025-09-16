@@ -8,10 +8,10 @@ Welcome to my Github portfolio! Here you can find an overview of my school proje
 
 ### Software / Code Cases
 - [Project 1: Exotisch Nederland](https://github.com/TheCyberLepricon/Exotisch-Nederland)
-- 
+  
   In this schoolproject was the case to make an application that can register exotic organisms and an application for the employees to manage these registrations.
 
--[Project 2: Pose estimation](https://github.com/TheCyberLepricon/Pose-estimation-demonstrator)
+- [Project 2: Pose estimation](https://github.com/TheCyberLepricon/Pose-estimation-demonstrator)
 
   This project uses AI vision to create a simple game to demonstrate the pose estimation technique
 
